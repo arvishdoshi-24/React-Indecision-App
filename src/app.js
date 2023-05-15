@@ -68,7 +68,6 @@ class Options extends React.Component {
 
 class Option extends React.Component {
     render() {
-        console.log(71, this.props)
         return (
             <div>
             {this.props.optionText}
